@@ -1,0 +1,235 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.04.2020 23:11:50
+
+newmtl AsphaltHexagonRoof
+	Ns 95.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_AsphaltHexagonRoof_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_AsphaltHexagonRoof_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_AsphaltHexagonRoof_glossiness.jpg
+	map_bump Map__4_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_AsphaltHexagonRoof_glossiness.jpg
+
+newmtl Glass
+	Ns 95.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl SpeedwayTiles
+	Ns 74.3091
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump -bm 0.0300 Map__9_Normal_Bump.tga
+
+newmtl ConcreteBlocks
+	Ns 74.3091
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcreteBlocks_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcreteBlocks_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcreteBlocks_altglossiness.jpg
+	map_bump -bm 0.6800 Map__14_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcreteBlocks_altglossiness.jpg
+
+newmtl ConcretePattern
+	Ns 67.1739
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcretePattern_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcretePattern_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcretePattern_glossiness.jpg
+	map_bump -bm 0.8000 Map__19_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcretePattern_glossiness.jpg
+
+newmtl Signs_Lights
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2549 0.2549 0.2549
+	Kd 0.2549 0.2549 0.2549
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl SatinSteel
+	Ns 95.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.7153 0.7153 0.7153
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_SatinSteel_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_SatinSteel_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_SatinSteel_altglossiness.jpg
+	map_bump Map__24_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_SatinSteel_altglossiness.jpg
+
+newmtl Characters
+	Ns 90.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4549 0.4549 0.4549
+	Kd 0.4549 0.4549 0.4549
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl MetalAccent
+	Ns 21.7365
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_MetalAccent_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_MetalAccent_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_MetalAccent_glossiness.jpg
+	map_bump -bm 0.0300 Map__33_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_MetalAccent_glossiness.jpg
+
+newmtl Pic_Banners
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2949 0.2949 0.2949
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_NSbanner_Diffuse.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_NSbanner_Diffuse.jpg
+
+newmtl MetalOxidized
+	Ns 74.3091
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_OxidizedSteel_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_OxidizedSteel_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_OxidizedSteel_glossiness.jpg
+	map_bump -bm 0.0300 Map__49_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_OxidizedSteel_glossiness.jpg
+
+newmtl GalvanizedSteel
+	Ns 95.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.6306 0.6306 0.6306
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_GalvanizedSteel_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_GalvanizedSteel_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_GalvanizedSteel_glossiness.jpg
+	map_bump -bm 0.5000 Map__44_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_GalvanizedSteel_glossiness.jpg
+
+newmtl PaintedMetal
+	Ns 95.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0596 0.0596 0.0596
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_PaintedMetall_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_PaintedMetall_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_PaintedMetall_glossiness.jpg
+	map_bump -bm 0.2000 Map__59_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_PaintedMetall_glossiness.jpg
+
+newmtl ConcreteAccent
+	Ns 74.3091
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcreteAccent_basecolor.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcreteAccent_basecolor.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcreteAccent_glossiness.jpg
+	map_bump -bm 0.0300 Map__39_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_ConcreteAccent_glossiness.jpg
+
+newmtl MetalGrating
+	Ns 95.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_MetalGrating_glossiness.jpg
+	map_Kd X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_MetalGrating_glossiness.jpg
+	map_Ks X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_MetalGrating_glossiness.jpg
+	map_bump -bm 0.4000 Map__54_Normal_Bump.tga
+	map_refl X:\Kitbash3d_NeoShanghai-Native-fbx-obj\Textures\KB3D_MetalGrating_glossiness.jpg
